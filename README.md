@@ -23,6 +23,7 @@ http://www.otc.umd.edu/
 
 ### How to cite
 When referencing this corpus, please cite the following paper:
+* https://www.academia.edu/37578270/ArCADE_An_Arabic_Corpus_of_Auditory_Dictation_Errors
 * MLA:
 Rytting, C. Anton, Paul Rodrigues, Tim Buckwalter, Valerie Novak, Aric Bills, Noah H. Silbert, and Mohini Madgavkar. “ArCADE: An Arabic Corpus of Auditory Dictation Errors.” Proceedings of the Ninth Workshop on Innovative Use of NLP for Building Educational Applications. 2014.
 * APA: 
